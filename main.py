@@ -1,4 +1,3 @@
-# 參考資料 https://ithelp.ithome.com.tw/articles/10278264
 # Github https://github.com/Heycan59/scissors-rock-paper
 
 import random
